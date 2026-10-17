@@ -362,7 +362,7 @@
             android:layout_width="22dp"
             android:layout_height="22dp"
             android:layout_gravity="center"
-            android:contentDescription="order"
+            android:contentDescription="My orders"
             android:src="@android:drawable/ic_menu_view"
             app:tint="#FFFFFF" />
     </FrameLayout>
